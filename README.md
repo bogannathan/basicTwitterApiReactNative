@@ -1,4 +1,4 @@
-#React Native Basic Twitter API
+# React Native Basic Twitter API
 
 React Native version of [this project](https://github.com/bogannathan/basicTwitterAPI)
 
